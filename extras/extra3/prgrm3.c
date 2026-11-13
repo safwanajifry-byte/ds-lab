@@ -6,7 +6,7 @@ int main()
 int arr[MAX_SIZE];
 int i;
 getArray(arr,MAX_SIZE);
-printf("array outside function");
+printf("\narray outside function: \n");
 for(i=0;i<MAX_SIZE;i++)
 {
 printf("%d",arr[i]);
@@ -16,12 +16,12 @@ return 0;
 void getArray(int arr[],int size)
 {
 int i;
-printf("enter elements in array:");
+printf("\nenter elements in array: \n");
 for(i=0;i<size;i++)
 {
 scanf("%d",&arr[i]);
 }
-printf("array inside function=");
+printf("\narray inside function: \n");
 for(i=0;i<size;i++)
 {
 
