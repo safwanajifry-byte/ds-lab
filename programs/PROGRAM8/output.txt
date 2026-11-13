@@ -1,0 +1,70 @@
+
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+1
+enter the data : 5
+
+5 is pushed into the stack
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+1
+enter the data : 15
+
+15 is pushed into the stack
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+1
+enter the data : 25
+
+25 is pushed into the stack
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+4
+25 15 5 
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+3
+last element is 25
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+2
+the deleted data is 25
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+4
+15 5 
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+5

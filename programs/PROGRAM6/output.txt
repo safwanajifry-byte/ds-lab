@@ -1,0 +1,75 @@
+
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+1
+enter the data10
+
+10 pushed to stack
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+1
+enter the data20
+
+20 pushed to stack
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+1
+enter the data30
+
+30 pushed to stack
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+4
+
+stack[1]=10
+stack[2]=20
+stack[3]=30
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+3
+top of the element is 30
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+2
+30 is deleted
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+4
+
+stack[1]=10
+stack[2]=20
+1)PUSH
+2)POP
+3)PEEK
+4)DISPLAY
+5)QUIT
+choose your option : 
+5

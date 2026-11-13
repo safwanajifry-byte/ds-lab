@@ -1,0 +1,68 @@
+1) CREATE
+2) INSERT
+3) DELETE
+4) VIEW
+5) QUIT
+
+choose your option : 1
+
+ Total number of elements in the array : 3
+5 10 15
+1) CREATE
+2) INSERT
+3) DELETE
+4) VIEW
+5) QUIT
+
+choose your option : 2
+
+Position of insertion : 2
+Which value you want to add : 99
+new array is 
+5
+99
+10
+15
+1) CREATE
+2) INSERT
+3) DELETE
+4) VIEW
+5) QUIT
+
+choose your option : 4
+Elements are : 
+5
+99
+10
+15
+1) CREATE
+2) INSERT
+3) DELETE
+4) VIEW
+5) QUIT
+
+choose your option : 3
+
+Enter the position of array to delete an element : 1
+New array is : 
+99
+10
+15
+1) CREATE
+2) INSERT
+3) DELETE
+4) VIEW
+5) QUIT
+
+choose your option : 4
+Elements are : 
+99
+10
+15
+1) CREATE
+2) INSERT
+3) DELETE
+4) VIEW
+5) QUIT
+
+choose your option : 5

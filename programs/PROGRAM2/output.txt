@@ -1,0 +1,9 @@
+enter the length of an array
+5
+enter the array
+10 20 30 40 50
+enter the position to delete2
+10
+30
+40
+50

@@ -1,0 +1,12 @@
+Implementation of Kruskal's algorithm
+
+Total no of vertex :: 4
+0 10 6 5
+10 0 0 15
+6 0 0 4
+5 15 4 0
+
+Edge 1 is (3 -> 4) with cost : 4
+Edge 2 is (1 -> 4) with cost : 5
+Edge 3 is (1 -> 2) with cost : 10
+ Minimum cost=19

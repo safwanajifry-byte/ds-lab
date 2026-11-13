@@ -1,0 +1,22 @@
+Total no of vertex: 4
+
+-- Enter vertex -- 
+
+vertex[1]: 1
+vertex[2]: 2
+vertex[3]: 3
+vertex[4]: 4
+
+--- Enter Cost matrix of size 4 x 4 ---
+
+0 10 6 5
+10 0 0 15
+6 0 0 4
+5 15 4 0
+
+
+Edge 1 is (1 -> 4) with cost : 5 
+Edge 2 is (4 -> 3) with cost : 4 
+Edge 3 is (1 -> 2) with cost : 10 
+
+Minimum cost=19
