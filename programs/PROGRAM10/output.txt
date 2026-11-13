@@ -1,0 +1,65 @@
+1. Make Set
+2. Find Set
+3. Union Sets
+4. Display Sets
+5. Exit
+Enter your choice: 1
+
+Enter the element to create a set: 1
+
+Set created for element 1
+1. Make Set
+2. Find Set
+3. Union Sets
+4. Display Sets
+5. Exit
+Enter your choice: 1
+
+Enter the element to create a set: 2
+
+Set created for element 2
+1. Make Set
+2. Find Set
+3. Union Sets
+4. Display Sets
+5. Exit
+Enter your choice: 1
+
+Enter the element to create a set: 3
+
+Set created for element 3
+1. Make Set
+2. Find Set
+3. Union Sets
+4. Display Sets
+5. Exit
+Enter your choice: 3
+
+Enter the first element: 1
+Enter the second element: 2
+
+Sets containing 1 and 2 have been merged
+1. Make Set
+2. Find Set
+3. Union Sets
+4. Display Sets
+5. Exit
+Enter your choice: 2
+
+Enter the element to find its set: 1
+The representative of 1 is 1
+1. Make Set
+2. Find Set
+3. Union Sets
+4. Display Sets
+5. Exit
+Enter your choice: 2
+
+Enter the element to find its set: 3
+The representative of 3 is 3
+1. Make Set
+2. Find Set
+3. Union Sets
+4. Display Sets
+5. Exit
+Enter your choice: 5
